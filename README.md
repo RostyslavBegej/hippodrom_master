@@ -6,7 +6,7 @@ __Hippodrome__ is a Java-based project designed to simulate and manage virtual h
 
 ## Features
 
-- Horse Management: Create and manage horses with specific names, speeds, and distances.
+- Horse Management: Create and manage horses with specific names, speeds, and distances. 
 - Race Simulation: Simulate races where horses move based on their speed and a random factor.
 - Winner Determination: Identify the winning horse based on the greatest distance covered.
 - Logging: Comprehensive logging of race events and errors.
